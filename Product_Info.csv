@@ -1,0 +1,27 @@
+ID,Company_Name,Sector,Industry,Nation,City,Market_Value,Current_Price,Previous_Close,52W_Low,52W_High,Description,CEO,Website
+0,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail United States,United States,Seattle,"$2,379,000,578,048",$222.54,226.19,161.38,258.6,"Amazon.com, Inc. eng...",,
+1,ASUSTeK Computer Inc.,Technology,Computer Hardware,Taiwan,Taipei,"$435,257,507,840",$586.00,584,441,745,ASUSTeK Computer Inc...,Mr. Chongtang Shi,https://www.asus.com
+6,Intel Corporation,Technology,Semiconductors,United States,Santa Clara,"$178,922,684,416",$37.51,37.81,17.67,44.02,Intel Corporation de...,Mr. Lip-Bu Tan,https://www.intel.com
+7,HP Inc.,Technology,Computer Hardware,United States,Palo Alto,"$22,890,848,256",$24.49,24.74,21.21,35.28,HP Inc. provides per...,Mr. Enrique J. Lores,https://www.hp.com
+8,Dell Technologies Inc.,Technology,Computer Hardware,United States,Round Rock,"$87,467,827,200",$130.51,129.98,66.25,168.08,Dell Technologies In...,Mr. Michael Saul Dell,https://www.dell.com
+9,Lenovo Group Limited,Technology,Computer Hardware,Hong Kong,Quarry Bay,"$15,170,897,920",$24.46,24.5,17.84,35.09,Lenovo Group Limited...,Mr. Yuanqing Yang,https://www.lenovo.com
+11,Acer Incorporated,Technology,Computer Hardware,Taiwan,New Taipei City,"$79,514,206,208",$26.45,26.7,26.2,40.95,Acer Incorporated re...,Mr. Chun Shen Chen,https://www.acer.com
+16,Apple Inc.,Technology,Consumer Electronics,United States,Cupertino,"$4,067,898,949,632",$274.11,278.28,169.21,288.62,"Apple Inc. designs, ...",Mr. Timothy D. Cook,https://www.apple.com
+17,Apple Inc.,Technology,Consumer Electronics,United States,Cupertino,"$4,067,898,949,632",$274.11,278.28,169.21,288.62,"Apple Inc. designs, ...",Mr. Timothy D. Cook,https://www.apple.com
+18,"Samsung Electronics Co., Ltd.",Technology,Consumer Electronics,South Korea,Suwon,"$687,329,320,632,320","$102,800.00",104800,50800,112400,Samsung Electronics ...,Mr. Tae-Moon Roh,https://www.samsung.com
+19,Sony Group Corporation,Technology,Consumer Electronics,Japan,Tokyo,"$158,866,636,800",$26.64,26.77,19.85,30.34,Sony Group Corporati...,Mr. Hiroki Totoki,https://www.sony.com
+23,"Micro-Star International Co., Ltd.",Technology,Computer Hardware,Taiwan,New Taipei City,"$87,020,191,744",$103.00,101,98,210,Micro-Star Internati...,Mr. Chin-Ching Huang,https://www.msi.com
+24,Microsoft Corporation,Technology,Software - Infrastructure,United States,Redmond,"$3,529,416,114,176",$474.82,478.53,344.79,555.45,Microsoft Corporatio...,Mr. Satya Nadella,https://www.microsoft.com
+25,Panasonic Holdings Corporation,Technology,Consumer Electronics,Japan,Kadoma,"$4,794,256,195,584","$2,053.50",2154,1363.5,2194,Panasonic Holdings C...,Mr. Yuki Kusumi,https://holdings.panasonic
+26,LG Electronics Inc.,Technology,Consumer Electronics,South Korea,Seoul,"$16,764,138,160,128","$93,100.00",95700,64100,102500,"LG Electronics Inc.,...",Mr. Jae-cheol Lyu,https://www.lge.co.kr
+27,"Advanced Micro Devices, Inc.",Technology,Semiconductors,United States,Santa Clara,"$337,948,868,608",$207.58,210.78,76.48,267.08,Advanced Micro Devic...,Dr. Lisa T. Su Ph.D.,https://www.amd.com
+32,"Corsair Gaming, Inc.",Technology,Computer Hardware,United States,Milpitas,"$662,897,792",$6.22,6.2,5.35,13.02,"Corsair Gaming, Inc....",Ms. Thi L. La,https://www.corsair.com
+33,Western Digital Corporation,Technology,Computer Hardware,United States,San Jose,"$58,974,539,776",$172.04,176.34,28.83,188.77,Western Digital Corp...,Mr. Tiang Yew Tan,https://www.westerndigital.com
+34,Logitech International S.A.,Technology,Computer Hardware,Switzerland,Lausanne,"$16,438,512,640",$111.94,112.77,64.73,123.01,Logitech Internation...,Ms. Johanna W. Faber,https://www.logitech.com
+35,HP Inc.,Technology,Computer Hardware,United States,Palo Alto,"$22,890,848,256",$24.49,24.74,21.21,35.28,HP Inc. provides per...,Mr. Enrique J. Lores,https://www.hp.com
+36,NVIDIA Corporation,Technology,Semiconductors,United States,Santa Clara,"$4,292,132,732,928",$176.29,175.02,86.62,212.19,"NVIDIA Corporation, ...",Mr. Jen-Hsun Huang,https://www.nvidia.com
+37,"NETGEAR, Inc.",Technology,Communication Equipment,United States,San Jose,"$682,281,280",$23.52,24.57,18.75,36.86,"NETGEAR, Inc. provid...",Mr. Charles J. Prober,https://www.netgear.com
+38,Western Digital Corporation,Technology,Computer Hardware,United States,San Jose,"$58,974,539,776",$172.04,176.34,28.83,188.77,Western Digital Corp...,Mr. Tiang Yew Tan,https://www.westerndigital.com
+39,Alphabet Inc.,Communication Services,Internet Content & Information,United States,Mountain View,"$3,733,198,209,024",$308.22,309.29,140.53,328.83,Alphabet Inc. offers...,Mr. Sundar Pichai,https://abc.xyz
+43,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,United States,Seattle,"$2,379,000,578,048",$222.54,226.19,161.38,258.6,"Amazon.com, Inc. eng...",Mr. Jeffrey P. Bezos,https://www.amazon.com
+46,"Advanced Micro Devices, Inc.",Technology,Semiconductors,United States,Santa Clara,"$337,948,868,608",$207.58,210.78,76.48,267.08,Advanced Micro Devic...,Dr. Lisa T. Su Ph.D.,https://www.amd.com
